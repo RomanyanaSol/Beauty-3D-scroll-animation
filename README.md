@@ -1,6 +1,6 @@
 # Beauty-3D-scroll-animation
 
-## Contents
+## About The Project
 
 - 3D gallery for the site    
 - Allows you to scroll through images smoothly     
@@ -9,7 +9,7 @@
 
 ![](https://github.com/RomanyanaSol/Beauty-3D-scroll-animation/blob/main/3D%20scroll.gif)
 
-## Technologies
+## Built With
 
 HTML  
 CSS  
