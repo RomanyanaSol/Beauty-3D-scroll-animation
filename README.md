@@ -11,6 +11,6 @@
 
 ## Built With
 
-HTML  
-CSS  
-JavaScript  
+<img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg' width="46" height="46" alt="HTML"/>
+<img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg' width="46" height="46" alt="CSS" />
+<img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' width="46" height="46" alt="CSS" />
