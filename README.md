@@ -19,6 +19,9 @@
 
 ## Code Example
 
-Sound by click
+Sound by click.  
+Sound automatically turns off when changing browser tabs.
 
-
+<p align="center">
+<img src="https://github.com/RomanyanaSol/Beauty-3D-scroll-animation/blob/main/Demo%20sound%20on.jpg">
+</p>
