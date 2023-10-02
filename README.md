@@ -26,4 +26,10 @@ Sound automatically turns off when changing browser tabs.
 <img src="https://github.com/RomanyanaSol/Beauty-3D-scroll-animation/blob/main/Demo%20sound%20on.jpg">
 </p>
 
-### JS Demo
+<p align="center">
+ JavaScript Demo
+</p>
+
+<p align="center">
+<img src="https://github.com/RomanyanaSol/Beauty-3D-scroll-animation/blob/main/JS%20Sound%20demo.jpg">
+</p>
