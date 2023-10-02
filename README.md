@@ -8,7 +8,7 @@
 - Implemented audio by clicking on the icon    
 
 <p align="center">
-<img src="https://github.com/RomanyanaSol/Beauty-3D-scroll-animation/blob/main/3D%20scroll.gif" width="800">
+<img src="https://github.com/RomanyanaSol/Beauty-3D-scroll-animation/blob/main/3d%20scroll2.gif" width='650'>
 </p>
 
 ## Built With
